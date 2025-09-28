@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+// Temporary files
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+*~
