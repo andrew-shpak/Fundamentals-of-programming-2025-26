@@ -1,0 +1,7 @@
+Нормалізація пробілів
+
+Ввід:
+  one   two  three
+
+Вивід:
+one two three
